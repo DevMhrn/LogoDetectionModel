@@ -94,6 +94,6 @@ Use the following command to start training your model. This example uses the YO
 ### The more images and higher epochs you use, the better the accuracy of your model.
 
 ### Approach Document: [Link](https://docs.google.com/document/d/1KQSaetpCBsrTuot5i2vIA7VLtMClUB-fdLqIiRkPGPE/edit?usp=sharing)
-### [Final Video](link.com)
+### Final Video : [Link](https://www.loom.com/share/b5877b23b24c466fbdbe1a3109b28fbd?sid=15a783a0-b8bd-4672-b984-5869584b2a73)
 
 
